@@ -2,11 +2,6 @@ This example Python Script "K5 Project List Generator.py" can be used to create 
 
 Before using the script, please edit it and update the Contract Parameters with your user credentials. Note: Ensure the account you use is a member of the DomainManager group.
 
-  adminUser = '<USERNAME>'
-  adminPassword = '<PASSWORD>'
-  contract = '<CONTRACTID>'
-  
-  
 Project IDs are written to the file as shown in the below example snippet:
 
 *** The following project(s) belong to the jp-east-1 region***
